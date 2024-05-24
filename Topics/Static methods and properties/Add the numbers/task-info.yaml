@@ -1,0 +1,18 @@
+type: code
+files:
+  - name: main.js
+    visible: true
+    highlight_level: NONE
+    text: class ...
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/31175#comment
+status: Failed
+feedback:
+  message: |-
+    Reply has invalid schema: 1 validation error for CodeReplyModel
+    version
+      Extra inputs are not permitted [type=extra_forbidden, input_value=17, input_type=int]
+        For further information visit https://errors.pydantic.dev/2.5/v/extra_forbidden
+  time: "Tue, 16 Jan 2024 11:09:56 UTC"
+record: -1
+submission_language: javascript
